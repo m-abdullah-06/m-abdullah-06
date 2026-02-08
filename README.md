@@ -1,7 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real+World+Projects)
-
-
-# Hi 👋, I'm Muhammad Abdullah
+# Hi 👋, I'm Muhammad Abdullah ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real+World+Projects)
 
 ### 🚀 Full-Stack Developer | Software Engineering Student | Problem Solver
 
