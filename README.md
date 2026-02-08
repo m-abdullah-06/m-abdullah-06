@@ -96,13 +96,6 @@ I enjoy turning ideas into real-world products that people can actually use.
 - GitHub: https://github.com/m-abdullah-06
 
 ---
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-abdullah-06\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=m-abdullah-06\&theme=tokyonight\&hide_border=true)
-
-
 
 ![](https://komarev.com/ghpvc/?username=m-abdullah-06\&color=0e75b6\&style=flat)
 
