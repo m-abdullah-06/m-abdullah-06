@@ -64,12 +64,6 @@ I enjoy turning ideas into real-world products that people can actually use.
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-06&theme=tokyonight)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdullah-06\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)
-
-
-
-
 ---
 
 ## 🎯 What I Can Do
