@@ -61,9 +61,8 @@ I enjoy turning ideas into real-world products that people can actually use.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-06&theme=tokyonight)
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-abdullah-06&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdullah-06&layout=compact&theme=tokyonight&cache_seconds=1800)
 
