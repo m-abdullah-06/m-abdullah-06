@@ -48,10 +48,10 @@ I enjoy turning ideas into real-world products that people can actually use.
 
 ## 🔥 Featured Projects
 
-### 📝 Study Notes Organizer
-- Smart notes system with search & random color notes
+### Ledger
+- Smart finance system to manage your finances
 - Clean and productivity-focused UI
-- Local storage implementation
+- Puter auth integration so your all data be saved in puter
 
 ### 🤖 Visen AI Resume Analyzer
 - AI-powered resume analysis tool
