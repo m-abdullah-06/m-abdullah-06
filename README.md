@@ -48,14 +48,14 @@ I enjoy turning ideas into real-world products that people can actually use.
 
 ## 🔥 Featured Projects
 
-### Ledger
+### Ledger - Finance Planner
 - Smart finance system to manage your finances
 - Clean and productivity-focused UI
 - Puter auth integration so your all data be saved in puter
 
-### 🤖 Visen AI Resume Analyzer
-- AI-powered resume analysis tool
-- Helps users improve resume quality
+### 🤖 Visen - AI Career Intelligence Platform
+- AI-powered career intelligence platform
+- Optimizes their resumes and simulate real interview experiences
 - Deployed & production ready
 
 ---
