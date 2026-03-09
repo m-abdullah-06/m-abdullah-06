@@ -36,7 +36,8 @@ I enjoy turning ideas into real-world products that people can actually use.
 
 ### 🗄️ Database
 - MySQL  
-- Database Integration & API Development  
+- Database Integration & API Development
+- Supabase
 
 ### 🛠️ Tools & Platforms
 - Git & GitHub  
