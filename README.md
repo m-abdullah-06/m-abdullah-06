@@ -80,7 +80,7 @@ Guitar and gym when I'm not shipping.
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/m-abdullah-06">github.com/m-abdullah-06</a></sub>
+<sub><a href="https://github.com/m-abdullah-06">github.com/m-abdullah-06</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=footer" width="100%"/>
 
