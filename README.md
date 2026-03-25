@@ -12,7 +12,9 @@
 
 </div>
 
-[![Stack Universe](https://stack-universe.vercel.app/api/embed/m-abdullah-06)](https://stack-universe.vercel.app/universe/m-abdullah-06)
+<div align="center">
+  [![Stack Universe](https://stack-universe.vercel.app/api/embed/m-abdullah-06)](https://stack-universe.vercel.app/universe/m-abdullah-06)
+</div>
 
 
 ### About
