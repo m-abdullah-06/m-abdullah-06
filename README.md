@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=240&section=header&text=Muhammad%20Abdullah&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Full-Stack%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+
+[![Stack Universe](https://stack-universe.vercel.app/api/embed/m-abdullah-06?v=1)](https://stack-universe.vercel.app/universe/m-abdullah-06)
+ 
 </div>
 
 <div align="center">
@@ -12,11 +14,7 @@
 
 </div>
 
-<div align="center">
 
-[![Stack Universe](https://stack-universe.vercel.app/api/embed/m-abdullah-06?v=1)](https://stack-universe.vercel.app/universe/m-abdullah-06)
-
-</div>
 
 
 ### About
