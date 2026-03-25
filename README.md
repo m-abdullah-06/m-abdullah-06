@@ -12,7 +12,7 @@
 
 </div>
 
-<iframe src="https://stack-universe.vercel.app/embed/m-abdullah-06" width="400" height="180" frameborder="0"></iframe>
+
 
 ### About
 
