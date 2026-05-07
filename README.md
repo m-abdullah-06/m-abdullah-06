@@ -85,7 +85,7 @@ AI-powered career guidance and resume analysis platform built with React 19.
 </tr>
 </table>
 
-**More Projects:** CSS Confessions • ProspectHunt • Tic Tac Toe AI • Rodi Club
+**More Projects:** Ledger • Taskly • Tic Tac Toe AI • Memodesk
 
 ---
 
