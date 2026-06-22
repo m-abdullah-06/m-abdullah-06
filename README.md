@@ -24,7 +24,7 @@
 
 19-year-old solo indie developer from Karachi. I build and ship SaaS products independently — no team, no funding, just code and execution. Currently focused on growing a portfolio of real products that people actually use.
 
-**Right now:** Competing in AISeekho 2026 with SoloDesk | Building Stack Universe into something people love & Learning networking basics for my next target Ethical Hacking.
+**Right now:** Competing in AISeekho 2026 with SoloDesk (Won Silver Tier) | Building Stack Universe into something people love & Learning networking basics for my next target Ethical Hacking.
 
 🎸 Guitar • 💪 Gym • 🌙 Late-night coding sessions
 
