@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Stack Universe](
-http://localhost:3000/api/embed/m-abdullah-06)](https://stack-universe.vercel.app/universe/m-abdullah-06)
+[![Stack Universe](http://localhost:3000/api/embed/m-abdullah-06)](https://stack-universe.vercel.app/universe/m-abdullah-06)
 
 </div>
 
