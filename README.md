@@ -62,7 +62,7 @@ AI email communicator, invoice & proposal builder.
 
 `Next.js` `TypeScript` `Supabase` `Groq AI` `Cloud Run`
 
-[`repo`](https://github.com/m-abdullah-06) · [`live demo`](https://github.com/m-abdullah-06)
+[`repo`](https://github.com/m-abdullah-06/SoloDesk) · [`live demo`](https://solo--desk.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,7 @@ and an embeddable README widget. Shipped in 7 phases.
 
 `React Three Fiber` `Three.js` `Next.js` `Supabase` `Groq`
 
-[`repo`](https://github.com/m-abdullah-06) · [`launch post`](https://dev.to)
+[`repo`](https://github.com/m-abdullah-06/Stack-Universe) · [`launch post`](https://dev.to/mabdullah06/i-built-a-side-project-that-turns-github-profiles-into-3d-solar-systems-honest-feedback-welcome-3a78)
 
 </td>
 </tr>
@@ -171,7 +171,6 @@ built from real LetsDefend case patterns.
   <img alt="contribution snake" src="https://raw.githubusercontent.com/m-abdullah-06/m-abdullah-06/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-> Snake auto-generates via the included GitHub Action — see `SETUP_GUIDE.md`.
 
 <img src="./assets/divider.svg" width="100%"/>
 
