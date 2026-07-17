@@ -82,7 +82,7 @@ and an embeddable README widget. Shipped in 7 phases.
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 IOC Enrichment Tool
+### 🔎 IOC Enrichment Tool (Coming soon)
 Pulls indicators of compromise and enriches them against threat intel
 sources for faster SOC triage.
 
@@ -93,7 +93,7 @@ sources for faster SOC triage.
 </td>
 <td width="50%" valign="top">
 
-### 🎣 Phishing Email Analyzer
+### 🎣 Phishing Email Analyzer (Coming soon)
 Parses raw email headers and bodies to flag phishing indicators —
 built from real LetsDefend case patterns.
 
