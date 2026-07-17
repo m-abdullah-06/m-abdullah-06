@@ -80,13 +80,13 @@ and an embeddable README widget. Shipped in 7 phases.
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 IOC Enrichment Tool (Coming soon)
+### 🔎 IOC Enrichment Tool
 Pulls indicators of compromise and enriches them against threat intel
 sources for faster SOC triage.
 
 `Python` `VirusTotal API` `AbuseIPDB`
 
-[`repo`](https://github.com/m-abdullah-06)
+[`repo`](https://github.com/m-abdullah-06/IOC-Enricher)
 
 </td>
 <td width="50%" valign="top">
