@@ -191,7 +191,6 @@ built from real LetsDefend case patterns.
 guitar:      practicing daily, chasing better fingerstyle
 space:       obsessed with the aesthetics of space stations and sci-fi UI
 learning:    KQL, purple teaming, Hungarian scholarship applications
-garage:      Suzuki Cultus 2021 VXR
 ```
 
 <details>
