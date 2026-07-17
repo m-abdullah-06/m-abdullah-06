@@ -42,7 +42,6 @@ development into cybersecurity.
 > Studying for SC-900 (Microsoft Security Fundamentals)
 > Closing out DAE finals — graduating December 2026
 > Rebuilding portfolio site: dark editorial, dev + SOC writeups side by side
-> Researching Stipendium Hungaricum for a fully-funded CS bachelor's
 ```
 
 <img src="./assets/divider.svg" width="100%"/>
