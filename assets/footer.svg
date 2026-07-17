@@ -1,0 +1,27 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#05070a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="140" fill="url(#footBg)"/>
+
+  <g fill="#ffffff">
+    <circle cx="80" cy="30" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="60" r="1.3"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="440" cy="20" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="45" r="1.4"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="25" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="55" r="1.2"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="600" y="80" text-anchor="middle" font-family="Fira Code, monospace" font-size="16" fill="#58A6FF">
+    &gt; whoami
+  </text>
+  <text x="600" y="105" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" fill="#8b949e">
+    m-abdullah-06 :: thanks for stopping by the station
+  </text>
+
+  <line x1="450" y1="120" x2="750" y2="120" stroke="#EE6901" stroke-width="1" opacity="0.6"/>
+</svg>
