@@ -91,13 +91,13 @@ sources for faster SOC triage.
 </td>
 <td width="50%" valign="top">
 
-### 🎣 Phishing Email Analyzer (Coming soon)
+### 🎣 Phishing Email Analyzer
 Parses raw email headers and bodies to flag phishing indicators —
 built from real LetsDefend case patterns.
 
 `Python` `Header Parsing` `Threat Intel`
 
-[`repo`](https://github.com/m-abdullah-06)
+[`repo`](https://github.com/m-abdullah-06/Phishing-Analyzer)
 
 </td>
 </tr>
