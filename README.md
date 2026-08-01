@@ -30,7 +30,7 @@ Full-Stack Developer | Building Performant Web Applications with Next.js &amp; R
 
 ```bash
 NAME          = Muhammad Abdullah
-ROLE          = Frontend or full-stack engineer
+ROLE          = Full Stack Developer & SOC Analyst in training
 FOCUS         = TypeScript • JavaScript (ES6+) • Python • HTML5 • CSS3 • React • Next.js • Tailwind CSS • Bootstrap • Vite • Node.js • Express.js • Supabase • MongoDB • MySQL • Prisma • REST APIs • Git • GitHub • Linux (Ubuntu) • VS Code • Figma • WordPress • Elementor • Vercel • Netlify • Splunk • Wireshark • Wazuh • Elastic Stack (ELK) • Microsoft Sentinel • KQL • SIEM • SOC Analysis • Incident Response • Threat Hunting • GitHub API • Groq AI
 REPOSITORIES  = 16
 CONTRIBUTIONS = 324
