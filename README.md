@@ -27,7 +27,10 @@
     <img src="https://www.gitskins.com/api/section/hero?username=m-abdullah-06&theme=github-dark&style=terminal" alt="m-abdullah-06 hero section" />
   </picture>
 </p>
- ## `> ls /projects --sort=impact`
+
+---
+
+## `> ls /projects --sort=impact`
 
 <details open>
 <summary><b>Stack-Universe</b></summary>
