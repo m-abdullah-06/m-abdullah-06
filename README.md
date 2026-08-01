@@ -23,20 +23,24 @@
 
 
 ---
-
-## `> whoami`
-
-I'm a software developer with a growing focus on cybersecurity. I enjoy building practical solutions, investigating security challenges, and turning curiosity into real-world projects - usually with a terminal open and too many browser tabs.
-
-```bash
-NAME          = Muhammad Abdullah
-ROLE          = Software Developer & Aspiring SOC Analyst
-FOCUS         = TypeScript • JavaScript (ES6+) • Python • HTML5 • CSS3 • React • Next.js • Tailwind CSS • Bootstrap • Vite • Node.js • Express.js • Supabase • MongoDB • MySQL • Prisma • REST APIs • Git • GitHub • Linux (Ubuntu) • VS Code • Figma • WordPress • Elementor • Vercel • Netlify • Splunk • Wireshark • Wazuh • Elastic Stack (ELK) • Microsoft Sentinel • KQL • SIEM • SOC Analysis • Incident Response • Threat Hunting • GitHub API • Groq AI
-REPOSITORIES  = 16
-CONTRIBUTIONS = 324
-STATUS        = Building | Learning | Breaking
-
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=m-abdullah-06&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=m-abdullah-06&theme=github-dark&style=terminal" alt="m-abdullah-06 hero section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=m-abdullah-06&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=m-abdullah-06&theme=github-dark&style=terminal" alt="m-abdullah-06 stats section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=m-abdullah-06&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=m-abdullah-06&theme=github-dark&style=terminal" alt="m-abdullah-06 stack section" />
+  </picture>
+</p>
 
 ---
 
