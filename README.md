@@ -22,14 +22,6 @@
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=m-abdullah-06&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=m-abdullah-06&theme=github-dark&style=terminal&mode=dark" width="100%" alt="m-abdullah-06 heatmap" />
-</picture>
-
-</div>
 
 
 
