@@ -106,13 +106,14 @@ An AI-powered career intelligence platform that helps job seekers optimize their
 
 ---
 
-## `> ping me`
-
-<div align="center">
-
-<a href="https://github.com/m-abdullah-06">GitHub</a> &nbsp;·&nbsp; <a href="https://abdxo.netlify.app">Website</a>
-
-</div>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=m-abdullah-06&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=m-abdullah-06&theme=github-dark&style=terminal" alt="m-abdullah-06 social section" />
+  </picture>
+</p>
 
 ---
 
