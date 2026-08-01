@@ -1,13 +1,10 @@
 <div align="center">
 
-<h3><code>m-abdullah-06@github ~ $ ./portfolio.sh</code></h3>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=m-abdullah-06&theme=github-dark&style=terminal&label=Muhammad+Abdullah&mode=light" />
   <img src="https://www.gitskins.com/api/section/wordmark?username=m-abdullah-06&theme=github-dark&style=terminal&label=Muhammad+Abdullah&mode=dark" width="100%" alt="m-abdullah-06 wordmark" />
 </picture>
 
-<p><b>Full-Stack Developer | Building Performant Web Applications with Next.js &amp; React | Tailwind CSS | WordPress</b></p>
 
 </div>
 
