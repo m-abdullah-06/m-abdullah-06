@@ -26,7 +26,7 @@
 
 ## `> whoami`
 
-Full-Stack Developer | Building Performant Web Applications with Next.js &amp; React | Tailwind CSS | WordPress
+I'm a software developer with a growing focus on cybersecurity. I enjoy building practical solutions, investigating security challenges, and turning curiosity into real-world projects - usually with a terminal open and too many browser tabs.
 
 ```bash
 NAME          = Muhammad Abdullah
@@ -34,7 +34,7 @@ ROLE          = Full Stack Developer & SOC Analyst in training
 FOCUS         = TypeScript • JavaScript (ES6+) • Python • HTML5 • CSS3 • React • Next.js • Tailwind CSS • Bootstrap • Vite • Node.js • Express.js • Supabase • MongoDB • MySQL • Prisma • REST APIs • Git • GitHub • Linux (Ubuntu) • VS Code • Figma • WordPress • Elementor • Vercel • Netlify • Splunk • Wireshark • Wazuh • Elastic Stack (ELK) • Microsoft Sentinel • KQL • SIEM • SOC Analysis • Incident Response • Threat Hunting • GitHub API • Groq AI
 REPOSITORIES  = 16
 CONTRIBUTIONS = 324
-STATUS        = Building | Learning | Shipping
+STATUS        = Building | Learning | Breaking
 
 ```
 
