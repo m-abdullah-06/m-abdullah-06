@@ -135,4 +135,3 @@ An AI-powered career intelligence platform that helps job seekers optimize their
 
 ---
 
-<p align="center"><sub>Muhammad Abdullah · Terminal portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
