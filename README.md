@@ -18,4 +18,3 @@
 
 </div>
 
-<p align="center"><sub>Muhammad Abdullah · Live profile system generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
