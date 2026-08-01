@@ -19,6 +19,13 @@
 
 </div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=m-abdullah-06&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=m-abdullah-06&theme=github-dark&style=terminal" alt="m-abdullah-06 projects section" />
+  </picture>
+</p>
+
 
 
 
