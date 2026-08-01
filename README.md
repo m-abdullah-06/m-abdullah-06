@@ -20,10 +20,6 @@
 </div>
 
 
-
-
-
-
 ---
 <p align="center">
   <picture>
