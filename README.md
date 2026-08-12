@@ -40,10 +40,8 @@ development into cybersecurity.
 ## `$ cat current_mission.log`
 
 ```
-> Studying for SC-900 (Microsoft Security Fundamentals)
+> Studying for ISC2 CC
 > Closing out DAE finals — graduating December 2026
-> Rebuilding portfolio site: dark editorial, dev + SOC writeups side by side
-> Researching Stipendium Hungaricum for a fully-funded CS bachelor's
 ```
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -151,18 +149,6 @@ built from real LetsDefend case patterns.
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `$ ./run_stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=m-abdullah-06&show_icons=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=EE6901&text_color=c9d1d9&border_color=30363d" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdullah-06&layout=compact&theme=react&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=30363d" width="35%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-06&theme=react&background=0D1117&stroke=30363d&ring=58A6FF&fire=EE6901&currStreakLabel=58A6FF" width="49%"/>
-
-</div>
 
 ### `$ git log --graph --oneline`
 
