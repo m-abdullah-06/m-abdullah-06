@@ -157,14 +157,12 @@ built from real LetsDefend case patterns.
   <img alt="contribution snake" src="https://raw.githubusercontent.com/m-abdullah-06/m-abdullah-06/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-> Snake auto-generates via the included GitHub Action — see `SETUP_GUIDE.md`.
-
 <img src="./assets/divider.svg" width="100%"/>
 
 ## `$ ls certifications/`
 
-- ✅ **ISC2 Certified in Cybersecurity (CC)** — all five domains cleared
-- 📅 **Microsoft SC-900** — booked
+- ✅ **ISC2 Certified in Cybersecurity (CC)** — all five domains cleared (Booked)
+- 📅 **Microsoft SC-900** — Done
 - 🎯 **Microsoft SC-200** — next up
 - 🔓 **LetsDefend First Blood** — SOC335 (CVE-2024-49138)
 - 🧭 Free-tier roadmap: Cisco NetAcad · Fortinet NSE 1/2/3 · Splunk Fundamentals · OPSWAT ICIP
@@ -176,8 +174,7 @@ built from real LetsDefend case patterns.
 ```yaml
 guitar:      practicing daily, chasing better fingerstyle
 space:       obsessed with the aesthetics of space stations and sci-fi UI
-learning:    KQL, purple teaming, Hungarian scholarship applications
-garage:      Suzuki Cultus 2021 VXR
+learning:    KQL, purple teaming.
 ```
 
 <details>
