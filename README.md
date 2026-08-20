@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="banner"/>
+[![Stack Universe](https://stack-universe.vercel.app/api/embed-v2/m-abdullah-06?v=1)](https://stack-universe.vercel.app/universe/m-abdullah-06)
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Shipping+SaaS+products+solo...;Documenting+SOC+cases+on+LetsDefend...;SOC+Analyst+%E2%86%92+Pentester+%E2%86%92+Purple+Team...;Builder+by+Habit.+Breaker+by+Choice." alt="typing animation"/>
 
 </div>
+
+
 
 <img src="./assets/divider.svg" width="100%"/>
 
