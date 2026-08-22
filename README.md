@@ -60,9 +60,9 @@ development into cybersecurity.
 Client CRM, project pipeline, no-login client portal with two-way messaging,
 AI email communicator, invoice & proposal builder.
 
-`Next.js` `TypeScript` `Supabase` `Groq AI` `Cloud Run`
+`Next.js` `TypeScript` `Supabase` `Groq AI` `Vercel`
 
-[`repo`](https://github.com/m-abdullah-06) · [`live demo`](https://github.com/m-abdullah-06)
+[`repo`](https://github.com/m-abdullah-06/SoloDesk) · [`live demo`](https://solo--desk.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,7 @@ and an embeddable README widget. Shipped in 7 phases.
 
 `React Three Fiber` `Three.js` `Next.js` `Supabase` `Groq`
 
-[`repo`](https://github.com/m-abdullah-06) · [`launch post`](https://dev.to)
+[`repo`](https://github.com/m-abdullah-06/Stack-Universe) · [`launch post`](https://dev.to/mabdullah06)
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ sources for faster SOC triage.
 
 `Python` `VirusTotal API` `AbuseIPDB`
 
-[`repo`](https://github.com/m-abdullah-06)
+[`repo`](https://github.com/m-abdullah-06/IOC-Enricher) · [`live demo`](https://ioc-enricher-abd.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +99,7 @@ built from real LetsDefend case patterns.
 
 `Python` `Header Parsing` `Threat Intel`
 
-[`repo`](https://github.com/m-abdullah-06)
+[`repo`](https://github.com/m-abdullah-06/Phishing-Analyzer) · [`live demo`](https://phishing-analyzer-abd.vercel.app/)
 
 </td>
 </tr>
