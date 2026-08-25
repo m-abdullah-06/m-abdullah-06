@@ -27,7 +27,7 @@ $ status: online. welcome to the station.
 
 ## `$ whoami` — Command Center
 
-I'm **Muhammad Abdullah Kamran**, a final-semester DAE Software Engineering student at
+I'm **Muhammad Abdullah**, a final-semester DAE Software Engineering student at
 Aligarh Institute of Technology, Karachi — currently piloting a transition from full-stack
 development into cybersecurity.
 
