@@ -11,7 +11,6 @@
 [![Projects Shipped](https://img.shields.io/badge/Projects%20Shipped-4+-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/m-abdullah-06)
 [![SOC Cases](https://img.shields.io/badge/SOC%20Cases%20Closed-10+-EE4B2B?style=flat-square&logo=shield&logoColor=white)](https://github.com/m-abdullah-06/soc-analyst-portfolio)
 [![Blog](https://img.shields.io/badge/Ship%20Log-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://shiplog.hashnode.dev)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat-square)](.)
 
 </div>
 
