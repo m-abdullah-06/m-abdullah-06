@@ -6,9 +6,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Shipping+SaaS+products+solo...;Documenting+SOC+cases+on+LetsDefend...;SOC+Analyst+%E2%86%92+Pentester+%E2%86%92+Purple+Team...;Builder+by+Habit.+Breaker+by+Choice." alt="typing animation"/>
 
+<br/>
+
+[![Projects Shipped](https://img.shields.io/badge/Projects%20Shipped-4+-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/m-abdullah-06)
+[![SOC Cases](https://img.shields.io/badge/SOC%20Cases%20Closed-2-EE4B2B?style=flat-square&logo=shield&logoColor=white)](https://github.com/m-abdullah-06/soc-analyst-portfolio)
+[![Blog](https://img.shields.io/badge/Ship%20Log-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://shiplog.hashnode.dev)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat-square)](.)
+
 </div>
-
-
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -33,7 +38,8 @@ development into cybersecurity.
 
 - 🛠️ I build and ship real SaaS products solo — not tutorial projects
 - 🛡️ Actively moving down the **SOC Analyst → Penetration Tester → Purple Team** path
-- 📡 I document every SOC case I close on my [Ship Log](https://hashnode.com) blog
+- 📡 I document every SOC case I close on my [Ship Log](https://shiplog.hashnode.dev) blog
+- 🔍 SOC portfolio live at [`m-abdullah-06/soc-analyst-portfolio`](https://github.com/m-abdullah-06/soc-analyst-portfolio)
 - 🎸 Off-console: guitar, fitness, and getting lost in music
 - 🌍 Currently prepping applications for a CS bachelor's abroad
 
@@ -42,8 +48,10 @@ development into cybersecurity.
 ## `$ cat current_mission.log`
 
 ```
-> Studying for ISC2 CC
-> Closing out DAE finals — graduating December 2026
+> SC-900     [██████████]  DONE ✅
+> ISC2 CC    [████████░░]  All 5 domains cleared — Exam booked
+> SC-200     [░░░░░░░░░░]  Next target
+> DAE Finals [████████░░]  Closing out — graduating December 2026
 ```
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -151,7 +159,6 @@ built from real LetsDefend case patterns.
 
 <img src="./assets/divider.svg" width="100%"/>
 
-
 ### `$ git log --graph --oneline`
 
 <picture>
@@ -163,11 +170,11 @@ built from real LetsDefend case patterns.
 
 ## `$ ls certifications/`
 
-- ✅ **ISC2 Certified in Cybersecurity (CC)** — all five domains cleared (Booked)
-- 📅 **Microsoft SC-900** — Done
-- 🎯 **Microsoft SC-200** — next up
-- 🔓 **LetsDefend First Blood** — SOC335 (CVE-2024-49138)
-- 🧭 Free-tier roadmap: Cisco NetAcad · Fortinet NSE 1/2/3 · Splunk Fundamentals · OPSWAT ICIP
+- ✅ **Microsoft SC-900** — Done
+- 📅 **ISC2 Certified in Cybersecurity (CC)** — All 5 domains cleared · Exam booked
+- 🎯 **Microsoft SC-200** — Next target
+- 🔓 **LetsDefend First Blood** — SOC335 (CVE-2024-49138) · Invited to write community walkthrough
+- 🧭 **Free-tier roadmap:** Cisco NetAcad · Fortinet NSE 1/2/3 · Splunk Fundamentals · OPSWAT ICIP
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -176,7 +183,7 @@ built from real LetsDefend case patterns.
 ```yaml
 guitar:      practicing daily, chasing better fingerstyle
 space:       obsessed with the aesthetics of space stations and sci-fi UI
-learning:    KQL, purple teaming.
+learning:    KQL, SC-200 prep, purple teaming concepts
 ```
 
 <details>
