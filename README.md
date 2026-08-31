@@ -41,7 +41,6 @@ development into cybersecurity.
 - 📡 I document every SOC case I close on my [Ship Log](https://shiplog.hashnode.dev) blog
 - 🔍 SOC portfolio live at [`m-abdullah-06/soc-analyst-portfolio`](https://github.com/m-abdullah-06/soc-analyst-portfolio)
 - 🎸 Off-console: guitar, fitness, and getting lost in music
-- 🌍 Currently prepping applications for a CS bachelor's abroad
 
 <img src="./assets/divider.svg" width="100%"/>
 
