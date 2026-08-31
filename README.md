@@ -1,6 +1,6 @@
 <div align="center">
-
-[![Stack Universe](https://stack-universe.vercel.app/api/embed-v2/m-abdullah-06?v=1)](https://stack-universe.vercel.app/universe/m-abdullah-06)
+  
+<img src="./assets/banner.svg" width="100%" alt="banner"/>
 
 <br/>
 
