@@ -47,7 +47,7 @@ development into cybersecurity.
 
 ```
 > SC-900     [██████████]  DONE ✅
-> ISC2 CC    [████████░░]  All 5 domains cleared — Exam booked
+> ISC2 CC    [██████████]  DONE ✅
 > SC-200     [░░░░░░░░░░]  Next target
 > DAE Finals [████████░░]  Closing out — graduating December 2026
 ```
@@ -169,7 +169,7 @@ built from real LetsDefend case patterns.
 ## `$ ls certifications/`
 
 - ✅ **Microsoft SC-900** — Done
-- 📅 **ISC2 Certified in Cybersecurity (CC)** — All 5 domains cleared · Exam booked
+- ✅ **ISC2 Certified in Cybersecurity (CC)** — Done
 - 🎯 **Microsoft SC-200** — Next target
 - 🔓 **LetsDefend First Blood** — SOC335 (CVE-2024-49138) · Invited to write community walkthrough
 - 🧭 **Free-tier roadmap:** Cisco NetAcad · Fortinet NSE 1/2/3 · Splunk Fundamentals · OPSWAT ICIP
