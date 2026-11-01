@@ -4,11 +4,11 @@
   <img src="https://www.gitskins.com/api/section/hero?username=m-abdullah-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242257455%3Fu%3Dff448501c4c8815e7203aeb49054a2ac4169a55f%26v%3D4" alt="m-abdullah-06 hero visual" />
 </p>
 
-**Muhammad Abdullah** · Full-Stack Engineer
+**Muhammad Abdullah** · Full-Stack Engineer & SOC Analyst in Training
 
 ## Operating principles
 
-<pre><code>ROLE        = Full-Stack Engineer
+<pre><code>ROLE        = Full-Stack Engineer & SOC Analyst in Training
 LOCATION    = Pakistan
 PUBLIC_REPOS = 16
 COMMUNITY   = 5 followers</code></pre>
@@ -54,4 +54,4 @@ Ctrl + Alt + Anxiety.
 
 <a href="https://github.com/m-abdullah-06">GitHub</a> · <a href="https://abdxo.vercel.app">Website</a>
 
-<p align="center"><sub>Muhammad Abdullah · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
