@@ -1,211 +1,57 @@
-<div align="center">
-  
-<img src="./assets/banner.svg" width="100%" alt="banner"/>
+## Delivery pipeline
 
-<br/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=m-abdullah-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242257455%3Fu%3Dff448501c4c8815e7203aeb49054a2ac4169a55f%26v%3D4" alt="m-abdullah-06 hero visual" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Shipping+SaaS+products+solo...;Documenting+SOC+cases+on+LetsDefend...;SOC+Analyst+%E2%86%92+Pentester+%E2%86%92+Purple+Team...;Builder+by+Habit.+Breaker+by+Choice." alt="typing animation"/>
+**Muhammad Abdullah** · Full-Stack Engineer
 
-<br/>
+## Operating principles
 
-[![Projects Shipped](https://img.shields.io/badge/Projects%20Shipped-4+-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/m-abdullah-06)
-[![SOC Cases](https://img.shields.io/badge/SOC%20Cases%20Closed-10+-EE4B2B?style=flat-square&logo=shield&logoColor=white)](https://github.com/m-abdullah-06/soc-analyst-portfolio)
-[![Blog](https://img.shields.io/badge/Ship%20Log-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://shiplog.hashnode.dev)
+<pre><code>ROLE        = Full-Stack Engineer
+LOCATION    = Pakistan
+PUBLIC_REPOS = 16
+COMMUNITY   = 5 followers</code></pre>
 
-</div>
+Ctrl + Alt + Anxiety.
 
-<img src="./assets/divider.svg" width="100%"/>
+## Uptime in motion
 
-## `$ ./boot_sequence.sh`
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=m-abdullah-06&theme=github-dark" alt="m-abdullah-06 contribution activity" />
+</p>
 
-```bash
-$ initializing NEXUS profile...
-$ loading identity...      [OK]
-$ mounting dev_stack...    [OK]
-$ mounting sec_stack...    [OK]
-$ establishing uplink...   [OK]
-$ status: online. welcome to the station.
-```
+## Service signals
 
-<img src="./assets/divider.svg" width="100%"/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=m-abdullah-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242257455%3Fu%3Dff448501c4c8815e7203aeb49054a2ac4169a55f%26v%3D4" alt="m-abdullah-06 stats visual" />
+</p>
 
-## `$ whoami` — Command Center
+<p><code>396 contributions</code> · <code>0 day streak</code></p>
 
-I'm **Muhammad Abdullah**, a final-semester DAE Software Engineering student at
-Aligarh Institute of Technology, Karachi — currently piloting a transition from full-stack
-development into cybersecurity.
+## Infrastructure shipped
 
-- 🛠️ I build and ship real SaaS products solo — not tutorial projects
-- 🛡️ Actively moving down the **SOC Analyst → Penetration Tester → Purple Team** path
-- 📡 I document every SOC case I close on my [Ship Log](https://shiplog.hashnode.dev) blog
-- 🔍 SOC portfolio live at [`m-abdullah-06/soc-analyst-portfolio`](https://github.com/m-abdullah-06/soc-analyst-portfolio)
-- 🎸 Off-console: guitar, fitness, and getting lost in music
+- **[Stack-Universe](https://github.com/m-abdullah-06/Stack-Universe)** — Stack Universe is a 3D, WebGL-powered visualization tool that instantly transforms any GitHub developer's profile into an interactive, stunning solar system. · ⭐ 5
+- **[SoloDesk](https://github.com/m-abdullah-06/SoloDesk)** — SoloDesk is a complete Freelancer OS built specifically for independent workers. It replaces the chaos of managing clients on WhatsApp, tracking projects in notebooks, and writing professional emails from scratch — with one unified platform. · ⭐ 2
+- **[IOC-Enricher](https://github.com/m-abdullah-06/IOC-Enricher)** — A blazingly fast, AI-powered Threat Intelligence Dashboard.  Paste an IP, domain, or file hash and get instant, synthesized threat intelligence from premium sources. · ⭐ 2
+- **[soc-analyst-portfolio](https://github.com/m-abdullah-06/soc-analyst-portfolio)** — SOC Analyst in training. Full-stack developer by background, blue teamer by choice. I close alerts, write detections, and build the tools analysts wish existed. · ⭐ 2
+- **[Phishing-Analyzer](https://github.com/m-abdullah-06/Phishing-Analyzer)** — Phishing Email Analyzer — a lightweight email forensics tool for inspecting raw .eml files with SPF/DKIM/DMARC verification, spoofing detection, IOC enrichment, and incident reporting. · ⭐ 2
+- **[FeedBack-Loop](https://github.com/m-abdullah-06/FeedBack-Loop)** — FeedbackLoop analyzes your URL or code snippet and returns severity-rated issues across security, performance, accessibility, UX, and best practices — with specific, actionable fixes for each one. · ⭐ 1
 
-<img src="./assets/divider.svg" width="100%"/>
+## Platform toolkit
 
-## `$ cat current_mission.log`
+<p><code>m-abdullah-06@github:~$ toolbox --list</code></p>
 
-```
-> SC-900     [██████████]  DONE ✅
-> ISC2 CC    [██████████]  DONE ✅
-> SC-200     [░░░░░░░░░░]  Next target
-> DAE Finals [████████░░]  Closing out — graduating December 2026
-```
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=m-abdullah-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242257455%3Fu%3Dff448501c4c8815e7203aeb49054a2ac4169a55f%26v%3D4" alt="m-abdullah-06 stack visual" />
+</p>
 
-<img src="./assets/divider.svg" width="100%"/>
+## Keep it moving
 
-## `$ ls -la featured_projects/`
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=m-abdullah-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242257455%3Fu%3Dff448501c4c8815e7203aeb49054a2ac4169a55f%26v%3D4" alt="m-abdullah-06 social visual" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/m-abdullah-06">GitHub</a> · <a href="https://abdxo.vercel.app">Website</a>
 
-### 🖥️ SoloDesk
-**AI-powered Freelancer OS** — 🥈 Silver Tier, AI Seekho 2026 (10,000+ entries)
-
-Client CRM, project pipeline, no-login client portal with two-way messaging,
-AI email communicator, invoice & proposal builder.
-
-`Next.js` `TypeScript` `Supabase` `Groq AI` `Vercel`
-
-[`repo`](https://github.com/m-abdullah-06/SoloDesk) · [`live demo`](https://solo--desk.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🪐 Stack Universe
-**3D GitHub profile visualizer** — repos rendered as orbiting planets
-
-AI narration, roast mode, analytics dashboard, multiplayer presence,
-and an embeddable README widget. Shipped in 7 phases.
-
-`React Three Fiber` `Three.js` `Next.js` `Supabase` `Groq`
-
-[`repo`](https://github.com/m-abdullah-06/Stack-Universe) · [`launch post`](https://dev.to/mabdullah06)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 IOC Enrichment Tool
-Pulls indicators of compromise and enriches them against threat intel
-sources for faster SOC triage.
-
-`Python` `VirusTotal API` `AbuseIPDB`
-
-[`repo`](https://github.com/m-abdullah-06/IOC-Enricher) · [`live demo`](https://ioc-enricher-abd.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎣 Phishing Email Analyzer
-Parses raw email headers and bodies to flag phishing indicators —
-built from real LetsDefend case patterns.
-
-`Python` `Header Parsing` `Threat Intel`
-
-[`repo`](https://github.com/m-abdullah-06/Phishing-Analyzer) · [`live demo`](https://phishing-analyzer-abd.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-## `$ cat tech_arsenal.json`
-
-<table>
-<tr><td valign="top" width="25%">
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=58A6FF)
-![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=58A6FF)
-
-</td><td valign="top" width="25%">
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=EE6901)
-![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=flat-square&logo=supabase&logoColor=EE6901)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=EE6901)
-![Groq](https://img.shields.io/badge/-Groq_AI-0D1117?style=flat-square&logo=groq&logoColor=EE6901)
-
-</td><td valign="top" width="25%">
-
-**Security**
-
-![Sentinel](https://img.shields.io/badge/-MS_Sentinel-0D1117?style=flat-square&logo=microsoftazure&logoColor=58A6FF)
-![Defender](https://img.shields.io/badge/-Defender_XDR-0D1117?style=flat-square&logo=windows&logoColor=58A6FF)
-![VirusTotal](https://img.shields.io/badge/-VirusTotal-0D1117?style=flat-square&logo=virustotal&logoColor=58A6FF)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-0D1117?style=flat-square&logo=tryhackme&logoColor=58A6FF)
-
-</td><td valign="top" width="25%">
-
-**Cloud / DevOps**
-
-![GCP](https://img.shields.io/badge/-Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=EE6901)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=EE6901)
-![GitHub Actions](https://img.shields.io/badge/-GH_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=EE6901)
-![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=flat-square&logo=vercel&logoColor=EE6901)
-
-</td></tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-### `$ git log --graph --oneline`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-abdullah-06/m-abdullah-06/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/m-abdullah-06/m-abdullah-06/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-## `$ ls certifications/`
-
-- ✅ **Microsoft SC-900** — Done
-- ✅ **ISC2 Certified in Cybersecurity (CC)** — Done
-- 🎯 **Microsoft SC-200** — Next target
-- 🔓 **LetsDefend First Blood** — SOC335 (CVE-2024-49138) · Invited to write community walkthrough
-- 🧭 **Free-tier roadmap:** Cisco NetAcad · Fortinet NSE 1/2/3 · Splunk Fundamentals · OPSWAT ICIP
-
-<img src="./assets/divider.svg" width="100%"/>
-
-## `$ cat side_quests.yml`
-
-```yaml
-guitar:      practicing daily, chasing better fingerstyle
-space:       obsessed with the aesthetics of space stations and sci-fi UI
-learning:    KQL, SC-200 prep, purple teaming concepts
-```
-
-<details>
-<summary><b>$ sudo reveal-secret</b></summary>
-<br>
-
-```bash
-$ sudo reveal-secret
-[sudo] password for m-abdullah-06: ********
-Access granted.
-
-🏆 Achievement Unlocked: "First Blood" — SOC335 / CVE-2024-49138
-🏆 Achievement Unlocked: "Silver Tier" — AI Seekho 2026, 10,000+ entries
-🏆 Achievement Unlocked: "Community Contributor" — invited by LetsDefend CSM
-   to write a public walkthrough
-
-$ rm -rf attackers/
-rm: cannot remove 'attackers/': Permission denied — nice try.
-```
-
-</details>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<div align="center">
-<img src="./assets/footer.svg" width="100%"/>
-</div>
+<p align="center"><sub>Muhammad Abdullah · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
